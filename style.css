@@ -26,3 +26,8 @@ body{
     border: solid 1px #000;
     width: 500px;
 }
+.info{
+    border: solid 1px #000;
+    width: 500px;
+    margin-bottom: 10px;
+}
